@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto é uma criação de uma página de receita colocando em prática algumas tecnologia que estou estudando na formação FullStack.
 
-- [Acesse o projeto finalizado, online](https://editonr.github.io/pagina_de_receita/)
+- [Acesse o projeto finalizado, online](https://editonr.github.io/PaginaReceita/)
 
 ---
 
